@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Albert Muravtsev](https://up.htmlacademy.ru/htmlcss/22/user/517137).
+* Студент: [Albert Muravtsev](https://up.htmlacademy.ru/htmlcss/21/user/517137).
 
 ---
 
